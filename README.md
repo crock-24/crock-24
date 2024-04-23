@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @crock-24
-- 👀 I’m interested in data science, big data, and data analytics
-- 🌱 I’m currently learning Python, SQL, and R
-- 💞️ I’m looking to collaborate on data science/finance related projects
-- 📫 Reach me at codyjrorick@gmail.com
-
-<!---
-crock-24/crock-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my Github profile, my name is Cody. 
+I've lived in different areas around Michigan but am currently based around the metro detroit area.  
+I am an engineering processional.
+My interests include data science, automation, and finance.
+Currently I'm working on building my proficiency in Python, SQL, and R with a variety of projects.
+Looking to collaborate on finance/data science related projects.
+Reach out to me at codyjrorick@gmail.com! 

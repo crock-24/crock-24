@@ -1,4 +1,4 @@
-- Welcome to my Github profile, my name is Cody. 
+# Welcome to my Github profile, my name is Cody. 
 - I've lived in different areas around Michigan but am currently based around the metro detroit area.  
 - I am an engineering professional.
 - My interests include data science, automation, and finance.

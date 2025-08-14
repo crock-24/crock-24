@@ -15,10 +15,10 @@ I'm an electric power engineer based in the Metro Detroit area, building experti
 
 - **[MISO_FTR_Trading_Signals](https://github.com/crock-24/MISO_FTR_Trading_Signals)** – Analysis and modeling of MISO congestion and FTR trading signals.  
 - **[FTR_Congestion_Drivers_MISO](https://github.com/crock-24/FTR_Congestion_Drivers_MISO)** – Investigating key market drivers for FTRs using historical MISO data.  
-- **[MISO-Load-Forecast](https://github.com/crock-24/MISO-Load-Forecast)** – Short-term load forecasting for MISO using R and time-series models.  
-- **[Solar-forecast](https://github.com/crock-24/Solar-forecast)** – Predicting short-term solar energy production with Python.  
+- **[MISO-Load-Forecast](https://github.com/crock-24/MISO-Load-Forecast)** – load forecasting for MISO using R and time-series models.  
+- **[Solar-forecast](https://github.com/crock-24/Solar-forecast)** – Predicting solar energy production with Python.  
 - **[Solar-Longterm-EnergyValue](https://github.com/crock-24/Solar-Longterm-EnergyValue)** – Estimating long-term energy value and revenue potential from solar installations.  
-- **[StockMarket-Option-Calculators](https://github.com/crock-24/StockMarket-Option-Calculators)** – Python-based tools for options pricing and analysis (demonstrates data modeling skills).  
+- **[StockMarket-Option-Calculators](https://github.com/crock-24/StockMarket-Option-Calculators)** – Python-based tools for options pricing and analysis.
 
 ---
 

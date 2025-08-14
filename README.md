@@ -1,4 +1,4 @@
-# Hello, I'm Cody
+# Hello, welcome to my Github page
 
 I'm an electric power engineer based in Metro Detroit, building expertise in **data science, automation, and energy market analysis**. My work combines engineering and analytics to solve complex problems in the power sector.
 
